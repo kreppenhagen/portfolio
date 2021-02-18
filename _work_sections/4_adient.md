@@ -5,7 +5,7 @@ alignment: left
 icon: none
 order: 4
 ---
-<img src="/assets/images/adient.png" alt="Adient">  
+<img src="{{ site.baseurl }}/assets/images/adient.png" alt="Adient">  
 <p style="font-size:30px"> Automotive Seating Mechanical Design Intern - Summer 2018 </p>
 
 During my internship with Adient, I was tasked with redesigning a folding headrest mechanism to increase its strength and rigidity. The original headrest design was not strong enough to meet the requirements of certain automotive OEMs, limiting the potential customers to which this headrest could be sold.

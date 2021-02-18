@@ -7,7 +7,7 @@ subtitle-color: black
 subtitle-size: 40px
 icon: fa-none
 order: 1
-cover-photo: /assets/images/home_cover_photo.JPG
+cover-photo: {{ site.baseurl }}/assets/images/home_cover_photo.JPG
 cover-photo-alt: cover photo
 ---
 

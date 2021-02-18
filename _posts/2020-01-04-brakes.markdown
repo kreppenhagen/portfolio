@@ -12,8 +12,8 @@ I was the brakes lead in the 2018 season and completely redesigned the system fr
 
 The brake calipers were redesigned to be sliding calipers machined out of a single block of aluminum, replacing the two-piece fixed calipers used previously. This change reduced the number of sealing interfaces by 50%, drastically lowering the possibility of leakage in the system. This change also enabled a reduction in total part count by 50%, greatly reducing system complexity and weight.  
 
-<img src="/assets/images/brake_part_count.png" alt="Brake Part Count Decrease">
-<img src="/assets/images/caliper-fea.png" alt="Rear Brake Caliper FEA">
+<img src="{{ site.baseurl }}/assets/images/brake_part_count.png" alt="Brake Part Count Decrease">
+<img src="{{ site.baseurl }}/assets/images/caliper-fea.png" alt="Rear Brake Caliper FEA">
 
 To improve serviceability, many fasteners were moved to more accessible locations, eliminating the need for special tools to be used during service and reducing tool-clearance design constraints put on nearby parts. In addition, the brake line routings were changed to naturally route air towards the bleed screws, preventing it from being trapped in the middle of the lines as had previously been an issue. This change drastically sped up the brake bleeding process, allowing a fully bled system to be achieved in less than half the time as before. 
 
@@ -21,6 +21,6 @@ To improve serviceability, many fasteners were moved to more accessible location
 
 The brake rotors were designed using topology optimization to ensure the design would have minimal mass and moment of inertia (MOI). The images below show the progression through the optimization process. First, a general mesh is made of the basic design space, constraints are set, loads are applied, and the objective of the optimization is specified. Next, the software is run, returning a map showing optimal element density, i.e. where the material should be placed for the most efficient design (blue indicates material should be removed, red indicates material should be kept). Finally, the design is modelled in CAD and a final analysis is run to ensure sufficient strength. Using optimization software, we acheived a 34% mass reduction and a 27% MOI reduction over the previous design.
   
-<img src="/assets/images/rotor_model.png" alt="Rotor Optimization Model">
-<img src="/assets/images/rotor_opti.png" alt="Rotor Optimization Results">
-<img src="/assets/images/rotor_fea.png" alt="Rotor FEA Results">
+<img src="{{ site.baseurl }}/assets/images/rotor_model.png" alt="Rotor Optimization Model">
+<img src="{{ site.baseurl }}/assets/images/rotor_opti.png" alt="Rotor Optimization Results">
+<img src="{{ site.baseurl }}/assets/images/rotor_fea.png" alt="Rotor FEA Results">
