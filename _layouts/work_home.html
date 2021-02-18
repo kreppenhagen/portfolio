@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _work_sections = site.work_sections | sort: 'order' -%}
+{%- include header.html scrolly_nav=_work_sections -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _section in _work_sections -%}
+		{%- include section.html title=_section.title subtitle=_section.subtitle title-color=_section.title-color title-size=_section.title-size subtitle-color=_section.subtitle-color subtitle-size=_section.subtitle-size alignment=_section.alignment photo=_section.cover-photo photo-alt=_section.cover-photo-alt auto-header=_section.auto-header content=_section.content -%}
+	{%- endfor -%}
+</div>

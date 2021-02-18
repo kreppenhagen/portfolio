@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Testing"
+icon: fa-chart-line
+date:   2020-01-06 22:40:25
+permalink: /baja/testing/
+---
+I served as the testing lead in the 2018 season. I was responsible for operating the team's data aquisition system to collect data for each subsystem as required. We performed a variety of component bench tests as well as full vehicle testing to ensure we had a good understanding of the entire system.
+
+I utilized the team's Somat eDAQlite data acquisition system to collect data from a variety of sensors including: accelerometers, strain gauges, linear potentiometers, pressure transducers, IR thermometers, and hall effect RPM gauges. At the beginning of the design process, tests were performed as part of our research to gain a better understanding of component operating conditions, enabling more informed design decisions. Once the vehicle was manufatured, testing shifted to more validation-type experiments. Data was collected to validate the assumptions and analyses that were performed during the design phase. 
+
+For example, tie rod buckling was designed to be the failure mode of the steering system, as it is the easiest component to manufacture and replace. To validate this, sample tie rods were tested at the component level in an Instron machine to confirm their buckling load. Then the steering system was tested at the full vehicle level to confirm that the tie rod was the failure mode of the system, validating our design.
+
+<img src="/assets/images/tierod_instron.png" alt="Tierod Buckling in Instron">
+<img src="/assets/images/tierod_broken.png" alt="Tierod Buckling on Vehicle">
