@@ -4,6 +4,6 @@ title-color: white
 title-size: 55px
 icon: none
 order: 1
-cover-photo: {{ site.baseurl }}/assets/images/law_quad.jpg
+cover-photo: /assets/images/law_quad.JPG
 cover-photo-alt: cover photo
 ---
