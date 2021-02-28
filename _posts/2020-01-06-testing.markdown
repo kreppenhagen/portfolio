@@ -11,5 +11,5 @@ I utilized the team's Somat eDAQlite data acquisition system to collect data fro
 
 For example, tie rod buckling was designed to be the failure mode of the steering system, as it is the easiest component to manufacture and replace. To validate this, sample tie rods were tested at the component level in an Instron machine to confirm their buckling load. Then the steering system was tested at the full vehicle level to confirm that the tie rod was the failure mode of the system, validating our design.
 
-<img src="{{ site.baseurl }}/assets/images/tierod_instron.png" alt="Tierod Buckling in Instron">
-<img src="{{ site.baseurl }}/assets/images/tierod_broken.png" alt="Tierod Buckling on Vehicle">
+<img src="{{ site.baseurl }}/assets/images/tierod_instron.png" alt="Tierod Buckling in Instron" style="width:41.6%; padding-right:10px">
+<img src="{{ site.baseurl }}/assets/images/tierod_broken.png" alt="Tierod Buckling on Vehicle" style="width:57.4%; padding-left:10px">

@@ -8,15 +8,15 @@ icon: fa-flag-checkered
 
 The Michigan Baja Racing team is a student project team that designs and builds a single-seat off-road racecar for competition against other collegiate teams from all accross the globe. The team is composed of approximately 20 engineering students who design and manufacuture over 90% of the vehicle in our on-campus workshop. 
 
-<img src="{{ site.baseurl }}/assets/images/baja_rochester_team.JPG" alt="Team Picture After 2019 New York Competition">
+<img src="{{ site.baseurl }}/assets/images/baja_rochester_team.JPG" alt="Team Picture After 2019 New York Competition" style="width:100%">
 
 We compete in three competitions each season, where the vehicle is assessed in a variety of dynamic and static events. The static events include a design presentation, a sales presentation, and a cost report. In the design event, the team presents on the research, design, analysis, and testing that went into the development of the vehicle to a group of professional engineers who judge the thoroughness of the design. The dynamic events are time-trial type races designed to test a unique aspect of the vehicle's performance; each competition has an acceleration, hill climb or sled pull, suspension & traction, and manueverability event. On the final day of competition, a four-hour endurance race is held, pinning all ~100 teams against each other on a large track packed with obstacles such as jumps, rock gardens, and logs to see who can finish the most laps before the time runs out.
 
-<img src="{{ site.baseurl }}/assets/images/baja_enduro_start.jpeg" alt="Endurance Race Start at California Competition">
+<img src="{{ site.baseurl }}/assets/images/baja_enduro_start.jpeg" alt="Endurance Race Start at California Competition" style="width:100%">
 
 I was a member of the team for three years, during which I held various leadership positions. In my senior year on the team, I served as the technical director and helped lead the team towards a first place season finish, setting a new record for the most points scored in a single season. 
 
-<img src="{{ site.baseurl }}/assets/images/baja_season_trophies.JPG" alt="Season Trophies">
+<img src="{{ site.baseurl }}/assets/images/baja_season_trophies.JPG" alt="Season Trophies" style="width:100%">
  
 
 

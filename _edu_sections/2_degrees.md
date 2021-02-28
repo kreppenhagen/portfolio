@@ -4,7 +4,7 @@ alignment: left
 icon: none
 order: 2
 ---
-<img src="{{ site.baseurl }}/assets/images/block_m.png" alt="University of Michigan Logo" style="float:right"/> 
+<img src="{{ site.baseurl }}/assets/images/block_m.png" alt="University of Michigan Logo" style="width:30%;float:right"/> 
 M.S.E. Mechanical Engineering - *May 2020*  
 *GPA: 3.850 / 4.000*
 
