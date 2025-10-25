@@ -10,7 +10,7 @@ I was the brakes lead in the 2018 season and completely redesigned the system fr
 
 ### System Redesign
 
-The brake calipers were redesigned to be sliding calipers machined out of a single block of aluminum, replacing the two-piece fixed calipers used previously. This change reduced the number of sealing interfaces by 50%, drastically lowering the possibility of leakage in the system. This change also enabled a reduction in total part count by 50%, greatly reducing system complexity and weight.  
+The brake calipers were redesigned to be sliding calipers machined out of a single block of aluminum, replacing the two-piece fixed calipers used previously. This change reduced the number of sealing interfaces by 50%, drastically lowering the possibility of leakage in the system. This change also enabled a reduction in total part count of over 50%, greatly reducing system complexity and weight.  
 
 <img src="{{ site.baseurl }}/assets/images/brake_part_count.png" alt="Brake Part Count Decrease" style="width:49%;padding-right:10px">
 <img src="{{ site.baseurl }}/assets/images/caliper-fea.png" alt="Rear Brake Caliper FEA" style="width:45%;padding-left:10px">

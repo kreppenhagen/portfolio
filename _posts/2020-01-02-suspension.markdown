@@ -5,7 +5,7 @@ icon: fa-car
 date:   2020-01-02 22:40:25
 permalink: /baja/suspension/
 ---
-I served as the suspension lead in the 2019 season. My main goals were to improve the vehicle's low speed turn radius and to strengthen the rear suspension links to ensure they would not fail. 
+I served as the suspension lead in the 2019 season. My main goals were to improve the vehicle's low speed turn radius and to solve the mystery of the failing rear suspension links.
 
 ### Low Speed Turning Radius
 
@@ -22,7 +22,7 @@ The results of this exeriment were used to design the steering kinematics on the
 
 ### Rear Suspension Load Cases
 
-In the 2018 season, we saw many failures to our H-arm, a critical link in the vehicle's rear suspension. The links were yielding under normal driving loads commonly seen during a race. The finite element analysis (FEA) run on the H-arm to check its strength showed that the link would be strong enough to withstand all of our tested load cases. This led us to believe that the load cases used in our FEA were not accurate to the loads actually seen on the vehicle. To correct this issue, I laid strain gauges on the rear suspension links of a previous vehicle, enabling us to collect data on the actual loads acting on the rear suspension.
+In the 2018 season, we saw many failures to our H-arm, a critical link in the vehicle's rear suspension. The finite element analysis (FEA) run on the H-arm to check its strength showed that the link would be strong enough to withstand all of our tested load cases. Yet, the links were yielding under normal driving loads commonly seen during a race. This led us to believe that the load cases used in our FEA were not accurate to the loads actually seen on the vehicle. To correct this issue, I laid strain gauges on the rear suspension links of a previous vehicle, enabling us to collect data on the actual loads acting on the rear suspension.
 
 <style>
 .centeredPhoto {display:block;margin-left: auto;margin-right:auto}
@@ -30,11 +30,11 @@ In the 2018 season, we saw many failures to our H-arm, a critical link in the ve
 
 <img class="centeredPhoto" src="{{ site.baseurl }}/assets/images/trailing_link.jpg" alt="Strain gauged suspension link" style="width:75%">   
 
-Strain data was collected while driving the vehicle over obstacles to simulate the worst case loads we would see in a competition. That strain data was post-processed using MATLAB to calculate the forces and moments acting on the rear wheel in the three standard vehicle axes. This allows us to acheive accurate loading in our simulations regardless of changes made to the suspension geometry year to year.
+Strain data was collected while driving the vehicle over obstacles to simulate the worst case loads we would see in a competition. That strain data was post-processed using MATLAB to calculate the forces and moments acting on the rear wheel in the three standard vehicle axes. The peak forces and moments from the test data were found and used to set new test cases for use in the suspension link strength analysis.
  
 <img src="{{ site.baseurl }}/assets/images/wheel_load_diagram-2.png" alt="diagram of wheel loads" style="width:49%;padding-right:15px"> 
 <img src="{{ site.baseurl }}/assets/images/wheel_load_graph.png" alt="Plot of wheel loads vs. time" style="width:49%;padding-left:15px">  
 
-Using these collected load cases, we reanalyzed the H-arm in FEA. The reanalysis showed that the link would yield at the same location we observed the links yielding on the car, confirming our hypothesis that the load cases were innacurate. We then redesigned the H-arm to improve its strength, ensuring it would be able to withstand all driving loads without yielding. The redesigned arm was used on the vehicle in both testing and at all three 2019 competitions with zero failures.
+The test data revealed our previous load cases were severely underconservative in a particular direction of loading. Using the new load cases, we reanalyzed the failed H-arm design in FEA. The reanalysis showed that the link would yield at the same location we observed the links yielding on the car, confirming our hypothesis that innacurate load cases were to blame for the failures. We then redesigned the H-arm to improve its strength, ensuring it would be able to withstand all driving loads without yielding. The redesigned arm was used on the 2019 vehicle through extensive testing and at all three competitions with zero failures.
 
 
