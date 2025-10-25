@@ -13,7 +13,7 @@ permalink: /photography/
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/mirror.JPG" style="width:100%" alt="Mirror">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/pika.JPG" style="width:100%" alt="Pika">
-  <img class="mySlides" src="{{ site.baseurl }}/assets/photos/stream.JPG" style="width:100%" alt="Alpine Stream">
+  <img class="mySlides" src="{{ site.baseurl }}/assets/photos/stream.jpg" style="width:100%" alt="Alpine Stream">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/flower.JPG" style="width:100%" alt="Flower">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/skis.JPG" style="width:100%" alt="Backcountry Skiing">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/bass.JPG" style="width:44.44%" alt="Bass Guitar">
@@ -33,7 +33,7 @@ permalink: /photography/
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/footprint.JPG" style="width:100%" alt="Footprint">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/rowboat.JPG" style="width:100%" alt="Rowboat Sunrise">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/bricks.JPG" style="width:100%" alt="Bricks">
-  <img class="mySlides" src="{{ site.baseurl }}/assets/photos/double_arch_startrail.PNG" style="width:100%" alt="Star Trail at Arches">
+  <img class="mySlides" src="{{ site.baseurl }}/assets/photos/double_arch_startrail.png" style="width:100%" alt="Star Trail at Arches">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/climber.JPG" style="width:44.44%" alt="Rock Climber">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/mountain-look.JPG" style="width:100%" alt="Mountain Look">
 
