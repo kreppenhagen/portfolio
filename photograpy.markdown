@@ -20,11 +20,10 @@ permalink: /photography/
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/pond_house.JPG" style="width:100%" alt="Pond Reflecting House">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/tent.JPG" style="width:44.44%" alt="Tent at Night">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/fourth_of_july.JPG" style="width:100%" alt="Fourth of July in Denver">
+  <img class="mySlides" src="{{ site.baseurl }}/assets/photos/aspens.jpg" style="width:100%" alt="Alpine Lake Surrounded by Aspens">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/pipe-sculpture.JPG" style="width:100%" alt="Pipe Sculpture">
-  <img class="mySlides" src="{{ site.baseurl }}/assets/photos/guitar.JPG" style="width:100%" alt="Guitar">
-  <img class="mySlides" src="{{ site.baseurl }}/assets/photos/washington-train.JPG" style="width:100%" alt="Mount Washington Railcar">
-  <img class="mySlides" src="{{ site.baseurl }}/assets/photos/bird.JPG" style="width:100%" alt="Bird">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/Storkyrkan.JPG" style="width:44.44%" alt="Storkyrkan">
+  <img class="mySlides" src="{{ site.baseurl }}/assets/photos/bird.JPG" style="width:100%" alt="Bird">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/cactus.JPG" style="width:100%" alt="Cactus">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/lighthouse.JPG" style="width:100%" alt="Lighthouse">
   <img class="mySlides" src="{{ site.baseurl }}/assets/photos/poinsettia.JPG" style="width:100%" alt="Poinsettia">

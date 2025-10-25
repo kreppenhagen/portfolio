@@ -1,8 +1,8 @@
 ---
 layout: controls_home
-title: Controls Projects
+title: Mechatronics Projects
 order: 8
 icon: fa-robot
-permalink: /controls/
+permalink: /mechatronics/
 ---
 
