@@ -1,5 +1,5 @@
 ---
-title: Mechatronics Projects
+title: Controls Projects
 title-color: black
 title-size: 55px
 icon: fa-none
