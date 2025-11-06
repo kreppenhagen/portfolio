@@ -16,7 +16,6 @@ Each season, the team competes in three competitions where the vehicle is assess
 
 I was a member of the team for three years, during which I held various leadership positions. In my senior year on the team, I served as the technical director and helped lead the team towards a first place overall finish, setting a new record for the most points scored in a single season. 
 
-<img src="{{ site.baseurl }}/assets/images/baja_season_trophies.JPG" alt="Season Trophies" style="width:100%">
- 
-
-
+<div style="position:relative;padding-bottom:56.25%;">
+  <iframe src="https://www.youtube.com/embed/63YucNSy5Ds" style="width:100%;height:100%;position:absolute;left:0px;top:0px;"> </iframe>  
+</div>
